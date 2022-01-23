@@ -8,7 +8,7 @@ __**Guite Emortal Profile README**__
 
 📫 **Contact Information:**
 - Discord User: Guite#1879
-- Black-Wind Studio Discord Server: https://discord.gg/Utz2YkNRd8
+- Discord Server: [Black-Wind Studio](https://discord.gg/Utz2YkNRd8)
 - Project E-Mail: blackwind.studio.devteam@gmail.com
 
 <!---
