@@ -1,8 +1,6 @@
 __**Guite Emortal Profile README**__
 >Hello, I am @Guite-Emortal. I'm a student currently learning Java and C#. 
 >My primary interests are Game Development for a personal project. 
->As well as Minecraft Mod & Plugin Development for Forge and SpongeForge.
->
 
 
 
