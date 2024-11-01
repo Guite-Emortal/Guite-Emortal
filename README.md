@@ -5,9 +5,8 @@ __**Guite Emortal Profile README**__
 
 
 📫 **Contact Information:**
-- Discord User: Guite#1879
-- Discord Server: [Black-Wind Studio](https://discord.gg/Utz2YkNRd8)
-- Project E-Mail: blackwind.studio.devteam@gmail.com
+- Discord User: guite
+- Project E-Mail: Coming Soon...
 
 <!---
 Guite-Emortal/Guite-Emortal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
