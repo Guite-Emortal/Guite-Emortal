@@ -5,6 +5,7 @@ __**Guite Emortal Profile README**__
 
 📫 **Contact Information:**
 - Discord User: guite
+- Bluesky: [@guite-emortal.bsky.social](https://bsky.app/profile/guite-emortal.bsky.social)
 - Project E-Mail: Coming Soon...
 
 <!---
