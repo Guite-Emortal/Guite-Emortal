@@ -1,6 +1,5 @@
 __**Guite Emortal Profile README**__
->Hello, I am @Guite-Emortal. I'm a student currently learning Java and C#. 
->My primary interests are Game Development for a personal project. 
+>Hello, I am @Guite-Emortal. I'm a student currently learning Java, C# and Python. 
 
 
 
